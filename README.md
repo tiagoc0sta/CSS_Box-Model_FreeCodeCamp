@@ -1,4 +1,4 @@
-# FreeCodeCamp Form - CSS Box-Model
+# FreeCodeCamp - CSS Box-Model concepts
 
 Technologies used:
 
